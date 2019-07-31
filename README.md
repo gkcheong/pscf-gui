@@ -1,7 +1,7 @@
 # pscf-gui
 Graphical user interface for PSCF (https://github.com/dmorse/pscf)
-This program is a GUI wrapper for PSCF a self-consistent field theory solver
-written using python's Tkinter package.
+This program is a GUI wrapper written using python's Tkinter package
+for PSCF, a self-consistent field theory solver.
 
 To run the program type `python gui.py` on the terminal.
 The program requires PSCF set up and Matlab for additional data processing.
